@@ -1,4 +1,4 @@
-# Random-Quote-Generator# Random Quote Generator
+# Random Quote Generator
 
 A simple web application that displays random quotes whenever the user interacts with it. Built using HTML, CSS, and JavaScript.
 
@@ -29,8 +29,8 @@ You can see the Random Quote Generator in action here: [Live Demo](http://127.0.
    cd Random Quote Generator
 
 3. **Open the index.html file in a browser**:
-- Simply double-click the index.html file, or
-- Use a local server (e.g., Live Server extension in VS Code).
+   - Simply double-click the index.html file, or
+   - Use a local server (e.g., Live Server extension in VS Code).
   
 ## How It Works
 1. When the page loads, a random quote is displayed.
