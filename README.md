@@ -10,7 +10,7 @@ A simple web application that displays random quotes whenever the user interacts
 
 ## Demo
 
-You can see the Random Quote Generator in action here: [Live Demo](http://127.0.0.1:5500/47.Random%20Qoute%20Generator/Random%20Quote%20Generator%20in%20JavaScript/index.html) 
+You can see the Random Quote Generator in action here: [Live Demo](http://127.0.0.1:5500/Random%20Qoute%20Generator/Random%20Quote%20Generator/index.html)
 
 ## Technologies Used
 
@@ -42,4 +42,4 @@ You can see the Random Quote Generator in action here: [Live Demo](http://127.0.
 - Style Modifications: Modify the style.css file to change the look and feel of the application.
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the license terms.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. You are free to use, modify, and distribute it as per the license terms.
