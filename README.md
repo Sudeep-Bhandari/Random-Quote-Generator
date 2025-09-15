@@ -2,15 +2,17 @@
 
 A simple web application that displays random quotes whenever the user interacts with it. Built using HTML, CSS, and JavaScript.
 
+##  Live Demo
+[Try it Live](https://sudeep-bhandari.github.io/Random-Quote-Generator/)
+
+---
+
 ## Features
 
 - Displays a random quote with each interaction.
 - Simple and responsive design.
 - Includes a button to generate a new quote.
 
-## Demo
-
-You can see the Random Quote Generator in action here: [Live Demo](http://127.0.0.1:5500/Random%20Qoute%20Generator/Random%20Quote%20Generator/index.html)
 
 ## Technologies Used
 
